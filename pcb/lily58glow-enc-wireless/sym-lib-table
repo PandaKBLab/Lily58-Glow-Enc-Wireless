@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Lily58-rescue")(type "Legacy")(uri "${KIPRJMOD}/lily58glow-enc-wireless-rescue.lib")(options "")(descr ""))
+)
