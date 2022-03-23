@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Lily58-rescue")(type "Legacy")(uri "${KIPRJMOD}/Lily58-rescue.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "/Users/iasoren/Documents/Projects/Keebs/libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "nice_nano")(type "Legacy")(uri "/Users/iasoren/Documents/Projects/Keebs/libraries/nice-nano-kicad/nice_nano.lib")(options "")(descr ""))
+  (lib (name "random_keebs")(type "Legacy")(uri "/Users/iasoren/Documents/Projects/Keebs/libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
