@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 2.0,
-          "width": 2.0
+          "drill": 0.8128,
+          "height": 1.397,
+          "width": 1.397
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -400,9 +400,7 @@
     "meta": {
       "version": 2
     },
-    "net_colors": {
-      "Net-(L1-Pad4)": "rgb(179, 255, 61)"
-    }
+    "net_colors": null
   },
   "pcbnew": {
     "last_paths": {
