@@ -10,10 +10,10 @@ This is a project to edit the Lily58 x qtkb Glow + Rotary Encoders to make it ea
 
 
 Needed Parts for a full keyboard:
-2x PCB
-2x OS102011MA1QN1 Slide Switch
-2x nice!nano
-56x Hotswap sockets
-60x SK6812 mini-E LEDs
-58x 1N4148W Thru-hole LEDs (not SMD yet)
+*2x PCB
+*2x OS102011MA1QN1 Slide Switch
+*2x nice!nano
+*56x Hotswap sockets
+*60x SK6812 mini-E LEDs
+*58x 1N4148W Thru-hole LEDs (not SMD yet)
 
