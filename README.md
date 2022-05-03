@@ -13,6 +13,7 @@ Bill of Materials:
 * 2x PCB
 * 2x OS102011MA1QN1 Slide Switch
 * 2x nice!nano
+* 2x EC11 encoder
 * 56x Hotswap sockets
 * 60x SK6812 mini-E LEDs
 * 58x 1N4148W Thru-hole LEDs (not SMD yet)
