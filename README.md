@@ -6,6 +6,8 @@ This is a project to edit the Lily58 x qtkb Glow + Rotary Encoders to make it ea
 
 ## V1 is a go! I think this should all be working PCB wise, firmware isn't yet ready, but I've placed a JLCPCB order for some prototypes, ordered all the pieces, and lots of the switches. If this works once I get the firmware ready, I'll daily drive it for a bit to verify no issues and then run a group buy. - May 4th, 2022
 
+Firmware repo: https://github.com/iasoren/Lily58-Glow-Enc-Wireless-ZMK
+
 
 
 
