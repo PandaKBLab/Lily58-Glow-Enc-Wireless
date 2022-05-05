@@ -4,9 +4,9 @@ Lily58 is 6×4+4keys column-staggered split keyboard.
 
 This is a project to edit the Lily58 x qtkb Glow + Rotary Encoders to make it easily compatible with wireless settings. This is designed for the nice!nano, and will have a battery disconnect switch, no TRRS jack, backlight per-key LEDs with a power switch. Very much a work in progress until there is an initial release. Hoping to have this modified and ready shortly after I receive my Boardsource.xyz Lulu (Lily58 compatible) case. Stay tuned!
 
-### 3/31/2022 Work is progressing. I am struggling to find a solid SPDT switch that will be easily reachable for LED purposes. But I think I've got it figured out besides that.
+## V1 is a go! I think this should all be working PCB wise, firmware isn't yet ready, but I've placed a JLCPCB order for some prototypes, ordered all the pieces, and lots of the switches. If this works once I get the firmware ready, I'll daily drive it for a bit to verify no issues and then run a group buy. - May 4th, 2022
 
-### 05/03/2022 Ordered some test kits from JLCPCB, already figured out that I made some LED errors, but that will be a good bit of work to fix. When those are fixed, plus whatever other issues, and the firmware is written, V1 will be released. If I continue to work on it after that, I hope to add underglow LEDs as a V2, and convert to SMD and Thru-Hole diodes. Until that time, I won't upload any gerber files. Hopefully, I will be able to run some sort of a group buy of PCBs and slide switches, but that is TBD.
+
 
 
 Bill of Materials:
