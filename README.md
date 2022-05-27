@@ -20,5 +20,5 @@ Bill of Materials:
 * 2x EC11 encoder
 * 56x Hotswap sockets
 * 60x SK6812 mini-E LEDs
-* 58x 1N4148W Thru-hole LEDs (not SMD yet)
+* 58x 1N4148W Thru-hole Diodes (not SMD yet)
 
