@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.85,
-          "width": 1.6
+          "drill": 0.9,
+          "height": 1.8,
+          "width": 1.8
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|118872000|40640000|09dae7f5-9b94-4ea1-bedf-0dcc702f10ae|1255ee97-886f-4bfc-ab7f-badcfc1cf370",
+        "clearance|118872000|40640000|76db76de-12e8-4e99-ae11-5bd1eb7b8b1d|1255ee97-886f-4bfc-ab7f-badcfc1cf370",
+        "track_dangling|89626000|38608000|b434b056-e222-4459-a4cf-002c5f111c0b|00000000-0000-0000-0000-000000000000",
+        "track_dangling|92964000|40894000|0202db6b-803c-4be4-b823-e4d9f3d69f60|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -63,7 +68,7 @@
       "rule_severities": {
         "annular_width": "error",
         "clearance": "error",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -72,8 +77,8 @@
         "extra_footprint": "warning",
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
-        "hole_near_hole": "error",
-        "invalid_outline": "error",
+        "hole_near_hole": "ignore",
+        "invalid_outline": "ignore",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
@@ -86,8 +91,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
