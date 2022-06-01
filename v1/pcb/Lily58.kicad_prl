@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
@@ -42,7 +42,6 @@
       "SCL",
       "RESET",
       "Net-(D29-Pad2)",
-      "LEDunder",
       "Net-(L1-Pad1)",
       "Net-(L2-Pad1)",
       "Net-(L3-Pad1)",
@@ -142,7 +141,7 @@
       35,
       36
     ],
-    "visible_layers": "00010f0_80000001",
+    "visible_layers": "00210f0_80000001",
     "zone_display_mode": 0
   },
   "meta": {
