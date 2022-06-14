@@ -14,10 +14,11 @@ Firmware repo: https://github.com/iasoren/Lily58-Glow-Enc-Wireless-ZMK
 
 Bill of Materials:
 * 2x PCB
-* 2x OS102011MA1QN1 Slide Switch
+* 4x OS102011MA1QN1 Slide Switch
 * 2x nice!nano
-* 2x EC11 encoder
+* 1x EC11 encoder (or 2x, personal preference)
 * 56x Hotswap sockets
 * 60x SK6812 mini-E LEDs
-* 58x 1N4148W Thru-hole Diodes (not SMD yet)
+* 20x WS2812b LEDs
+* 58x 1N4148W Thru-hole Diodes (or SMD diodes)
 
