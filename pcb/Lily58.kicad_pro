@@ -422,7 +422,7 @@
       "version": 2
     },
     "net_colors": {
-      "Net-(L1-Pad4)": "rgb(179, 255, 61)"
+      "Net-(LU2-Pad4)": "rgb(179, 255, 61)"
     }
   },
   "pcbnew": {
