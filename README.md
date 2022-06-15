@@ -4,12 +4,8 @@ Lily58 is 6×4+4keys column-staggered split keyboard.
 
 This is a project to edit the Lily58 x qtkb Glow + Rotary Encoders to make it easily compatible with wireless settings. This is designed for the nice!nano, and will have a battery disconnect switch, no TRRS jack, backlight per-key LEDs with a power switch. Very much a work in progress until there is an initial release. Hoping to have this modified and ready shortly after I receive my Boardsource.xyz Lulu (Lily58 compatible) case. Stay tuned!
 
-#There is a PCB issue. Don't yet order these
-
-### V1 is a go! 
-I think this should all be working PCB wise, firmware isn't yet ready, but I've placed a JLCPCB order for some prototypes, ordered all the pieces, and lots of the switches. If this works once I get the firmware ready, I'll daily drive it for a bit to verify no issues and then run a group buy. - May 4th, 2022
-### V1 Update: 6/2/2022
-I'm an idiot and messed up the PCB. Ordered some new ones, but it *SHOULD* work now. Firmware seems to be all set, just need the PCB to confirm it all. Once both are polished, I'll publish the firmware and gerber files in a single release, and run a group buy on PCBs.
+## V1 Works without LEDs
+Cost about $10 to order from JLCPCB, but LEDs are wired wrong. The Gerber has been uploaded to the release, and I will slowly be working on fixing the LEDs for the SK6812 mini-e
 
 Firmware repo: https://github.com/iasoren/Lily58-Glow-Enc-Wireless-ZMK
 
@@ -18,10 +14,11 @@ Firmware repo: https://github.com/iasoren/Lily58-Glow-Enc-Wireless-ZMK
 
 Bill of Materials:
 * 2x PCB
-* 2x OS102011MA1QN1 Slide Switch
+* 4x OS102011MA1QN1 Slide Switch
 * 2x nice!nano
-* 2x EC11 encoder
+* 1x EC11 encoder (or 2x, personal preference)
 * 56x Hotswap sockets
 * 60x SK6812 mini-E LEDs
-* 58x 1N4148W Thru-hole Diodes (not SMD yet)
+* 20x WS2812b LEDs
+* 58x 1N4148W Thru-hole Diodes (or SMD diodes)
 
