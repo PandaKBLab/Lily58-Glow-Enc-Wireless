@@ -7,6 +7,9 @@ This is a project to edit the Lily58 x qtkb Glow + Rotary Encoders to make it ea
 ## V1 Works without LEDs
 Cost about $10 to order from JLCPCB, but LEDs are wired wrong. The Gerber has been uploaded to the release, and I will slowly be working on fixing the LEDs for the SK6812 mini-e
 
+## V2 Firmware released, early LED support
+Added early LED support, but I don't have a board that works with them yet. Getting to the point that I am going to split the board up into a Left and Right side
+
 Firmware repo: https://github.com/iasoren/Lily58-Glow-Enc-Wireless-ZMK
 
 
