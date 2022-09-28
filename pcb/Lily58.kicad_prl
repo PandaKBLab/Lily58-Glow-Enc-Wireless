@@ -1,12 +1,9 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_nets": [
-      "unconnected-(L6-Pad1)",
-      "unconnected-(L18-Pad1)"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -66,7 +63,7 @@
       35,
       36
     ],
-    "visible_layers": "003ffcf_80000007",
+    "visible_layers": "003ffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
