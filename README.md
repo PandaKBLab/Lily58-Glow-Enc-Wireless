@@ -7,6 +7,15 @@ This is a project to edit the Lily58 x qtkb Glow + Rotary Encoders to make it ea
 
 Firmware repo: https://github.com/iasoren/Lily58-Glow-Enc-Wireless-ZMK
 
+| Task      | Status     | Issues        | ETA         |
+|-----------|------------|---------------|-------------|
+| Schematic | Pending | Need to fix underglow | Unknown |
+| PCB layouts | Pending | Trying to revert to dual-sided design | Unknown |
+| Underglow | Pending | See above | Unknown |
+| Backlight | Planning | Planning | Undetermined |
+
+
+
 
 
 
